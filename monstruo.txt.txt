@@ -1,2 +1,6 @@
+
 Cabeza normal
 Cabeza con casco de acero
+
+Cabeza normal con ojos de rayo laser
+
